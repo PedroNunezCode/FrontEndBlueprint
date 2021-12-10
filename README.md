@@ -1,1 +1,1 @@
-# Front-end_template
+# Basic front end template
