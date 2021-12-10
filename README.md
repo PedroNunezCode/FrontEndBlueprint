@@ -1,4 +1,4 @@
-# I'm tired of installing packages whenever I started a new project.
+# I'm tired of installing packages whenever I start a new project.
 ### The following repo contains a few packages that can help you get your React project started.
 
 
