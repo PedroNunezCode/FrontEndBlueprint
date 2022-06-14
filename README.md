@@ -4,6 +4,7 @@
 
 - React - [Docs](https://reactjs.org/)
 - React-Redux (Toolkit) - [Docs](https://redux-toolkit.js.org/introduction/getting-started)
+- React-Router-Dom - [Docs](https://reactrouter.com/docs/en/v6/getting-started/overview)
 - SASS - [Docs](https://sass-lang.com/)
 - Babel - [Docs](https://babeljs.io/setup#installation)
 - Webpack - [Docs](https://webpack.js.org/concepts/)

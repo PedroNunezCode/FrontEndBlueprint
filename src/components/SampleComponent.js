@@ -14,7 +14,9 @@ const SampleComponent = () => {
 
 
 	return (
-		<div>
+		<div className="align-center">
+			<h1>Front End Template</h1>
+			<h2>(Just the basics)</h2>
 			<br></br>
 			<br></br>
 			{/* The redux store declaration is inside src/index.js  */}

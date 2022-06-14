@@ -1,12 +1,16 @@
 import React from 'react';
 import SampleComponent from './components/SampleComponent';
+import NotFound from './components/shared/NotFound';
+
+import { BrowserRouter as Router, Routes, Route, Switch  } from 'react-router-dom';
 
 export default function App() {
 	return (
-		<div className="align-center">
-			<h1>Front End Template</h1>
-			<h2>(Just the basics)</h2>
-			<SampleComponent />
-		</div>
+		<Router>
+			<Routes>
+				<Route exact path="/" element={<SampleComponent />} />
+				<Route element={<NotFound />} />
+			</Routes>
+		</Router>
 	)
 }
