@@ -2,18 +2,18 @@
 ### The following is a list of the tech I use when starting a project. Made this to make it easier to start a new project :) Hope it helps you.
 
 
-- React - [Docs](https://reactjs.org/){:target="_blank" rel="noopener"}
-- React-Redux (Toolkit) - [Docs](https://redux-toolkit.js.org/introduction/getting-started){:target="_blank" rel="noopener"}
-- SASS - [Docs](https://sass-lang.com/){:target="_blank" rel="noopener"}
-- Babel - [Docs](https://babeljs.io/setup#installation){:target="_blank" rel="noopener"}
-- Webpack - [Docs](https://webpack.js.org/concepts/){:target="_blank" rel="noopener"}
+- React - [Docs](https://reactjs.org/)
+- React-Redux (Toolkit) - [Docs](https://redux-toolkit.js.org/introduction/getting-started)
+- SASS - [Docs](https://sass-lang.com/)
+- Babel - [Docs](https://babeljs.io/setup#installation)
+- Webpack - [Docs](https://webpack.js.org/concepts/)
 - All the css loaders required to run.
 
 I also tried to create a decent project structure so if anybody uses this,  you can easily navigate through the project and make additions.
 ## Installation (Local)
-This repo requires [Node.js](https://nodejs.org/){:target="_blank" rel="noopener"}
+This repo requires [Node.js](https://nodejs.org/)
 1. Clone the repo
-2. Remove git history. This will allow you to add your own [repo](https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github){:target="_blank" rel="noopener"}
+2. Remove git history. This will allow you to add your own [repo](https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github)
 3. Install Dependencies
 4. Run local server (will open up browser tab)
 
