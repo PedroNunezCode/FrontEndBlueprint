@@ -1,8 +1,19 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 
 import './styles/main.scss';
 
 import App from './App';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+// Remove the two following lines if you don't plan on using redux
+import { Provider } from 'react-redux';
+import store from './api/reduxStore';
+
+const container = document.getElementById('root');
+const root = createRoot(container);
+
+root.render(
+	<Provider store={store}>
+		<App />
+	</Provider>
+);
