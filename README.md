@@ -2,7 +2,7 @@
 ### The following is a list of the tech I use when starting a project. Made this to make it easier to start a new project :) Hope it helps you.
 
 
-- React - [Docs](https://reactjs.org/)
+- React - [Docs](https://reactjs.org/){:target="\_blank"}
 - React-Redux (Toolkit) - [Docs](https://redux-toolkit.js.org/introduction/getting-started)
 - SASS - [Docs](https://sass-lang.com/)
 - Babel - [Docs](https://babeljs.io/setup#installation)
