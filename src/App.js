@@ -9,7 +9,7 @@ export default function App() {
 		<Router>
 			<Routes>
 				<Route exact path="/" element={<SampleComponent />} />
-				<Route element={<NotFound />} />
+				<Route path="*" element={<NotFound />} />
 			</Routes>
 		</Router>
 	)
